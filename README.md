@@ -1,0 +1,2 @@
+# ScriptBashh
+tpe sys
